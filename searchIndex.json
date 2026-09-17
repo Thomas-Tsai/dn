@@ -1,0 +1,9 @@
+[
+{
+		"title": "2026-08-08",
+		"date":"Sat Aug 08 2026 08:00:00 GMT+0800 (Taiwan Standard Time)",
+		"url":"/10-daily-logs/2026-08-08/",
+		"content": "☀️ 2026-08-08 (星期六) 📅 今日聚焦 (🔥 最多 3 件事) [ ] [ ] [ ] 🚀 任務清單 (Tasks) 📥 本日待辦 [ ] ⏳ 追蹤中 / 延期任務 [ ] 📝 間歇式日記 (Log) [!tip] 技巧 使用 Ctrl + Shift + I (或設定快捷鍵) 插入目前時間（如 10:30），隨手記錄當下的工作進度、想法或開會速記。 09:00 12:00 15:30 💡 靈感與收穫 (Insights) (記錄今天學到的新知識、解決的問題或突如其來的點子) 🌅 晚間覆盤 (Review) 今天最棒的三件事： 1. 有什麼地方可以做得更好？ 🔗 頁面連結 ◀ 昨日筆記 | 明日筆記 ▶ COCO Cofidietail computing Cloud provider // cannot always trust VM -&gt; VM VM -&gt; Host -&gt; VM 修改記憶體 CCC confidential Computing Consortium 保護正在使用中的資料 HASH code for CPU // intel/amd Trusted Execution Base GuestOS: Trusted Host OS/ Hypervisor: unTrusted Hardware : Trusted TPM -&gt; TEE -&gt; CC TPM 2003-2014. TEE 2015-2018. CC 2018~ Provider TDX SEV-SNP CCA ... with cloud Azure, AWS ... X86 Intel SGX/TDX 記憶體轉換 軟體加硬體 vSGX -&gt; TDX AMD SEV-SNP 全硬體記憶體轉換 GPU nvidia CC",
+		"tags": [ "note","daily-log"]
+}
+]

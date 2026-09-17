@@ -1,0 +1,1 @@
+{"homeAlias":"/","nodes":{"/10-daily-logs/2026-08-08/":{"id":0,"title":"2026-08-08","url":"/10-daily-logs/2026-08-08/","group":"none","home":false,"outBound":["{{date-1:YYYY-MM-DD}}","{{date+1:YYYY-MM-DD}}"],"neighbors":[],"backLinks":[],"noteIcon":"","hide":false,"private":false,"size":0}},"links":[]}
